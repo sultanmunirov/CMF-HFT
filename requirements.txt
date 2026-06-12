@@ -1,0 +1,5 @@
+polars
+numpy
+pandas
+pyarrow
+tqdm
